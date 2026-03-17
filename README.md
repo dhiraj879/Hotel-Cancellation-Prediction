@@ -24,9 +24,5 @@ This project predicts whether a hotel booking will be canceled using Machine Lea
 - Customers with long lead time are more likely to cancel
 - Certain customer types show higher cancellation rates
 
-## 🚀 How to Run
-1. Install required libraries
-2. Run `model.py`
-
 ## 📎 Author
 Dhiraj Khalas
